@@ -74,7 +74,6 @@ public class TunerConstants {
     private static final String kCANbusName = "";
     private static final int kPigeonId = 13;
 
-
     // These are only used for simulation
     private static final double kSteerInertia = 0.00001;
     private static final double kDriveInertia = 0.001;
